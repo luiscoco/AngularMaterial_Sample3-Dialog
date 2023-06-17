@@ -1,0 +1,17 @@
+:host {
+    display: block;
+  }
+  
+  mat-dialog-content {
+    margin-top: 10px;
+  }
+  
+  mat-dialog-actions {
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  button[mat-button] {
+    margin-left: 8px;
+  }
+  
